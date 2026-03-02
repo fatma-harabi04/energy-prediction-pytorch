@@ -1,8 +1,10 @@
+pathlib
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
-torch
+statsmodels
+pmdarima
 fastapi
-uvicorn
+uvicorn 
